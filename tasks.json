@@ -1,0 +1,83 @@
+[
+  {
+    "assigneeId": "llo2",
+    "clientCompanyId": "companyA",
+    "description": "RPG HK - Jan 19 ",
+    "dueDate": "2019-03-12",
+    "id": "c48c0fbe-6ce1-49f8-acce-85fa7fed36e8",
+    "startDate": "2019-01-30",
+    "statusId": "notstarted"
+  },
+  {
+    "assigneeId": "ewhite",
+    "clientCompanyId": "companyA",
+    "description": "Monthly Jan 2019",
+    "dueDate": "2019-01-31",
+    "id": "b62c6aed-85a3-4866-96c5-6c143fa7c723",
+    "startDate": "2019-01-01",
+    "statusId": "wip"
+  },
+  {
+    "assigneeId": "llo",
+    "clientCompanyId": "companyD",
+    "description": "Monthly Jan 2019",
+    "dueDate": "2019-02-19",
+    "id": "9d9266b0-eb15-49f8-8b74-aa0fdbb3b340",
+    "startDate": "2019-02-01",
+    "statusId": "underreview"
+  },
+  {
+    "assigneeId": "cng1",
+    "clientCompanyId": "companyD",
+    "description": "Monthly Jan 2019",
+    "dueDate": "2019-02-19",
+    "id": "53e53d58-b8f5-495c-b6b3-438a2323adea",
+    "startDate": "2019-02-01",
+    "statusId": "notstarted"
+  },
+  {
+    "assigneeId": "plamb",
+    "clientCompanyId": "companyB",
+    "description": "Mgt Account for Apr 2019",
+    "dueDate": "2019-05-16",
+    "id": "f8cc813e-59ee-426e-9b00-577b724f75ab",
+    "startDate": "2019-05-01",
+    "statusId": "wip"
+  },
+  {
+    "assigneeId": "llo2",
+    "clientCompanyId": "companyC",
+    "description": "Monthly Jan 2019",
+    "dueDate": "2019-02-19",
+    "id": "3e768f0d-d681-4ddf-b656-f7f994189289",
+    "startDate": "2019-02-01",
+    "statusId": "underreview"
+  },
+  {
+    "assigneeId": "ewhite",
+    "clientCompanyId": "companyA",
+    "description": "Mgt Account for Apr 2019",
+    "dueDate": "2019-05-23",
+    "id": "9cc98da3-b23f-44c8-a4d9-ad19be611539",
+    "startDate": "2019-05-01",
+    "statusId": "done"
+  },
+  {
+    "assigneeId": "ccrush",
+    "clientCompanyId": "companyA",
+    "description": "Mgt account for 2019.04",
+    "dueDate": "2019-05-16",
+    "id": "6e465762-366a-45f6-887a-52068f7b82d2",
+    "startDate": "2019-05-01",
+    "statusId": "done"
+  },
+  {
+    "assigneeId": "ccrush",
+    "clientCompanyId": "companyA",
+    "description": "Mgt account for 2019.04",
+    "dueDate": "2019-05-16",
+    "id": "c551a3ac-df55-49b4-8806-2151f9fe36a7",
+    "startDate": "2019-05-01",
+    "statusId": "notstarted"
+  }
+]

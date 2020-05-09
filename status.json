@@ -1,0 +1,18 @@
+[
+  {
+    "id": "notstarted",
+    "name": "Not Started"
+  },
+  {
+    "id": "wip",
+    "name": "WIP"
+  },
+  {
+    "id": "underreview",
+    "name": "Under Review"
+  },
+  {
+    "id": "done",
+    "name": "Done"
+  }
+]
